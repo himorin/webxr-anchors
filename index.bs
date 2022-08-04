@@ -18,7 +18,6 @@ Abstract: Describes a method to create anchors tracked by underlying system.
 </pre>
 
 <pre class="link-defaults">
-spec:webxr device api - level 1; type:dfn; for:/; text:xr device
 spec:webxr-ar-module-1; type:enum-value; text:"immersive-ar"
 </pre>
 
